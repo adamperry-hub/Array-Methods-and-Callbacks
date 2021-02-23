@@ -23,12 +23,11 @@ Use getFinals to do the following:
 
 hint - you should be looking at the stage key inside of the objects
 */
-a
+
 function getFinals(/* code here */) {
    /* code here */
 }
-
-
+a 
 
 /* 🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀 Task 3: 🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀
 Use the higher-order function called getYears to do the following: 
