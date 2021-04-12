@@ -103,7 +103,7 @@ function getAverageGoals(arr) {
     }, 0);
     return (sum / arr.length).toFixed(2);
   }
-
+ console.log(getAverageGoals(fifaData));
 
 
 
@@ -117,7 +117,7 @@ Hint: use `.reduce` */
 
 function getCountryWins(/* code here */) {
 
-    /* code here */
+
 
 }
 
